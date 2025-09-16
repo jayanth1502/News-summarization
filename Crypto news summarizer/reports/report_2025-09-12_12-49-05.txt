@@ -1,0 +1,49 @@
+=== Crypto News Report (2025-09-12 12:49:05.564969) ===
+
+🌍 General Crypto News:
+
+📰 Bitcoin in consolidation as treasuries eye altcoins: Novogratz
+🔗 https://cointelegraph.com/news/bitcoin-consolidation-altcoin-treasury-growth-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+🤖 AI Summary: Galaxy CEO Mike Novogratz says Bitcoin could surge again as the US Federal Reserve restarts its cutting cycle. momentum also coming from regulatory reform.
+💹 Signal: BUY ✅
+------------------------------------------------------------
+📰 DOGE treasury CleanCore is now halfway to its 1B Dogecoin target
+🔗 https://cointelegraph.com/news/doge-treasury-cleancore-halfway-1b-dogecoin-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+🤖 AI Summary: CleanCore is now halfway to its 1B Dogecoin target. First DOGE spot ETF was delayed twice and is now expected to launch sometime next week.
+💹 Signal: SELL ❌
+⚡ Keyword Alert: 'ETF' in → DOGE treasury CleanCore is now halfway to its 1B Dogecoin target
+------------------------------------------------------------
+📰 RWA tokens surge 11% weekly as onchain value peaks at $29B
+🔗 https://cointelegraph.com/news/rwa-tokens-surge-11-percent-onchain-value-hits-ath?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+🤖 AI Summary: The total onchain value of real-world assets has almost doubled since the start of the year as financial institutions flood into the space.
+💹 Signal: BUY ✅
+------------------------------------------------------------
+📰 Crypto exchange Bitstamp flips Robinhood’s crypto volumes in August
+🔗 https://cointelegraph.com/news/bitstamp-flips-parent-robinhood-crypto-trading-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+🤖 AI Summary: Bitstamp recorded a 21% rise in crypto trading volume to $14.4 billion in August. It flipped Robinhood for the first time since it was acquired by the firm.
+💹 Signal: BUY ✅
+------------------------------------------------------------
+📰 Crypto treasury ‘easy money’ era ends, but that may be good for crypto
+🔗 https://cointelegraph.com/news/crypto-treasuries-easy-money-ends-competition-boost-markets-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+🤖 AI Summary: Crypto treasury firms will need to do more than copy Strategy’s playbook to thrive as the market matures, and that competition could boost markets.
+💹 Signal: SELL ❌
+------------------------------------------------------------
+
+=== BTC Top 3 News ===
+
+📰 $4.3B Bitcoin options expiry could open the door for a BTC rally to $120K
+🔗 https://cointelegraph.com/news/bitcoin-dollar4-3b-monthly-options-expiry-paves-path-to-dollar120k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+🤖 AI Summary: Bitcoin’s short-term path hinges on a $4.3 billion options expiry. Bulls are favored, but weak jobs data and doubts over AI profitability could add uncertainty.
+💹 Signal: SELL ❌
+------------------------------------------------------------
+📰 Bitcoin eyes $115K on CPI data as traders diverge on new BTC price dip
+🔗 https://cointelegraph.com/news/bitcoin-eyes-115k-cpi-data-traders-diverge-on-new-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+🤖 AI Summary: Bitcoin eyes $115K on CPI data as traders diverge on new BTC price dip. US CPI data conforms to expectations, but traders are anything but unified on short-term price targets.
+💹 Signal: SELL ❌
+------------------------------------------------------------
+📰 Bitcoin‘s ‘supercycle ignition’ hints at $360K: New price analysis
+🔗 https://cointelegraph.com/news/bitcoin-supercycle-ignition-hints-360k-new-btc-price-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+🤖 AI Summary: Bitcoin’s inverse head-and-shoulders pattern signalled the continuation of the uptrend toward $360,000, driven by institutional demand via spot BTC ETFs.
+💹 Signal: SELL ❌
+⚡ Keyword Alert: 'ETF' in → Bitcoin‘s ‘supercycle ignition’ hints at $360K: New price analysis
+------------------------------------------------------------
